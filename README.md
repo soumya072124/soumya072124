@@ -8,4 +8,4 @@ knowledge through hands-on projects. Eager to connect with data professionals an
 explore new opportunities in the field.
 
 - **Skills**: Python / Statistics / SQL / Data Analysis
-- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg)(www.linkedin.com/in/soumya-srivastava-0441b6322)]
+- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg)](www.linkedin.com/in/soumya-srivastava-0441b6322)
