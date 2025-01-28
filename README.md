@@ -7,5 +7,5 @@ through coursework in machine learning,
 knowledge through hands-on projects. Eager to connect with data professionals and
 explore new opportunities in the field.
 
-- **Skills**: Python / Statistics / SQL / Data Analysis
+- **Skills**: Python | Statistics | SQL | Data Analysis
 
